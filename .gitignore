@@ -1,0 +1,2 @@
+# Terraform provider files, and potentially local state (despite s3 backend)
+*/.terraform*
